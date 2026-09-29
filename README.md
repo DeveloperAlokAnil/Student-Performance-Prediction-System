@@ -330,3 +330,6 @@ The exact execution time may vary between computers.
  9. Important Note
 
 The prediction results are generated from the provided student dataset and machine-learning models. They should be treated as model predictions rather than guaranteed academic or placement outcomes.
+
+Screenshot:
+<img width="1855" height="875" alt="image" src="https://github.com/user-attachments/assets/c2356d26-e43e-4118-917c-33ca5910cbd1" />
